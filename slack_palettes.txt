@@ -1,0 +1,56 @@
+#3e313c dark_bg         (188) #373b41
+#372c36 dark_bg_2       (77)  #272a2e
+#4d394b dark_bg_3       (65)  #cc6666
+#876484 light_bg        (43)  #b4b7b4
+#61485e light_bg_2      (33)  #b5bd68
+
+#f0d9ed light_fg        (70) #e0e0e0
+#d4bbd1 light_fg_2      (22) #f0c674
+#a3839f dark_fg         (16) #de935f
+#261f26 border_1        (12) #282a2e
+#332631 border_2        (14) #373b41
+
+#ab9ba9 light_border_2  (10) #a3685a
+#856980 dark_fg_2       (1)  #b294bb
+#4a3b49 light_border_1  (3)  #b294bb
+rgba(62,49,60,0.4) dark_button (1) #373b41
+#997300 edit_bg         (5)  #8abeb7
+
+rgba(77, 57, 75, 0) dark_fade
+
+#5b4359 light_bg_3      (4)  #81a2be
+#ff8585 delete_bg       (1)  #cc6666
+
+#3b2c39 dark_bg_4       (1)  #373b41
+#241d23 dark_bg_5       (1)  #272a2e
+
+{{{
+#555459
+#2a80b9
+#439fe0
+#babbbf 
+#DDD
+}}}
+
+{{{
+Aubergine
+#4D394B column bg
+#3E313C menu bg
+#4C9689 active item bg
+#FFFFFF active item fg
+#3E313C hover item
+#FFFFFF text
+#38978D active badge
+#EB4D5C mention badge
+}}}
+
+Tomorrow
+#282a2e column bg
+#373b41 menu bg
+#373b41 active item bg
+#f0c674 active item fg
+#373b41 hover item
+#e0e0e0 text
+#b5bd68 active badge
+#cc6666 mention badge
+#282a2e,#373b41,#373b41,#f0c674,#373b41,#e0e0e0,#b5bd68,#cc6666
