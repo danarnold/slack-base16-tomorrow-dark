@@ -1,5 +1,6 @@
 # slack-base16-tomorrow-dark
-A dark theme based on the base16-tomorrow dark color palette and the Slack Night Mode style.
+
+![screenshot](screenshots/screenshot001.png)
 
 A flat dark color scheme based off the base16-tomorrow dark color palette. Someday I'll add some more coloration here, but splitting up the selectors will be a lot of work.
 
