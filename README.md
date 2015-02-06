@@ -5,7 +5,7 @@
 A flat dark color scheme based off the base16-tomorrow dark color palette. Someday I'll add some more coloration here, but splitting up the selectors will be a lot of work.
 
 Set your Sidebar Theme to this, under Preferences:
-#282A2E,#282A2E,#373B41,#F0C674,#373B41,#E0E0E0,#B5BD68,#CC6666
+    #282A2E,#282A2E,#373B41,#F0C674,#373B41,#E0E0E0,#B5BD68,#CC6666
 
 Thanks to Chris Kempson for the [base16 color palettes](http://chriskempson.github.io/base16/).
 
