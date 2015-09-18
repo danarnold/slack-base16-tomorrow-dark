@@ -3,6 +3,14 @@ body {
   background: #272a2e;
   color: #e0e0e0; }
 
+body:not(.feature_new_message_markup) .day_divider {
+    background: #272a2e;
+}
+
+body:not(.feature_new_message_markup) .day_divider_label {
+    background: #272a2e;
+}
+
 a, a:link, a:visited {
   color: #b4b7b4; }
 
@@ -12,6 +20,11 @@ a:hover, a:active, a:focus {
 hr {
   border-top: 1px solid #373b41;
   border-bottom: 1px solid #969896; }
+
+body:not(.feature_new_message_markup) .day_divider hr {
+    border-top: 1px solid #373b41;
+  border-bottom: 1px solid #969896;
+}
 
 h1, h2, h3, h4 {
   color: #e0e0e0; }
@@ -106,6 +119,10 @@ input[type="text"]:focus, input[type="text"]:active, input[type="number"]:focus,
   color: #272a2e !important;
   text-decoration: underline; }
 
+#message_edit_form.focus #primary_file_button:not(:hover), #messages-input-container.focus #primary_file_button:not(:hover), .inline_message_input_container.focus #primary_file_button:not(:hover) {
+    border-color: #373b41;
+}
+
 #welcome_slide_app_icons a {
   color: #e0e0e0;
   border: 1px solid #969896; }
@@ -182,6 +199,11 @@ input[type="text"]:focus, input[type="text"]:active, input[type="number"]:focus,
 #flex_menu .icon_menu {
   left: 6px;
   top: 7px; }
+
+#menu.flex_menu {
+  background-color: #272a2e;
+}
+
 
 #flex_toggle .icon_flex_pane:before {
   content: "\f104";
@@ -292,6 +314,10 @@ input[type="text"]:focus, input[type="text"]:active, input[type="number"]:focus,
   background: #373b41;
   color: #e0e0e0;
   padding-left: .8rem; }
+
+#menu .section_header .header_label, .menu_example .section_header .header_label {
+    background-color: #272a2e;
+}
 
 .search_result_with_extract {
   background: #272a2e;
