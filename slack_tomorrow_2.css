@@ -184,6 +184,10 @@ input[type="text"]:focus, input[type="text"]:active, input[type="number"]:focus,
 .message.edit_mode, .message .mention {
   background: #81a2be; }
 
+.file_container:after {
+    background-image: none;
+}
+
 /* ===[ Channel Menu ]=== */
 #header .client_header_button {
   background: #3e434a;
