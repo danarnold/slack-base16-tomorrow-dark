@@ -1,5 +1,10 @@
 # slack-base16-tomorrow-dark
 
+## Deprecated
+
+This theme is deprecated in favor of the more recent update, which is under
+[danarnold/slack-night-mode](https://github.com/danarnold/slack-night-mode).
+
 ![screenshot](screenshots/screenshot001.png)
 
 A flat dark color scheme based off the base16-tomorrow dark color palette. Someday I'll add some more coloration here, but splitting up the selectors will be a lot of work.
